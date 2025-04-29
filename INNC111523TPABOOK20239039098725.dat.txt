@@ -1,0 +1,27 @@
+_spaid 898
+_spuid 039098725
+_grid1 4
+_par1  4
+_ity  CH 
+_pag 27-48 
+_url
+_doi
+_eti Universal jurisdiction unrevisited: The international court of justice decision in case concerning the arrest warrant of 11 april 2000 (Democratic Republic Of The Congo V. Belgium)
+_auth 1*Bassiouni*M.C.*M. Cherif
+_cauth 1*Bassiouni*M.C.*M. Cherif
+_adseq 1
+_aor1 International Human Rights Law Institute
+_aor2 DePaul University College of Law; President
+_aor3 International Association of Penal Law
+_asrctxt Professor of Law, President, International Human Rights Law Institute, DePaul University College of Law; President, International Institute for Higher Studies in Criminal Sciences; President, International Association of Penal Law
+_cadseq 1
+_aor1 International Human Rights Law Institute
+_aor2 DePaul University College of Law; President
+_aor3 International Association of Penal Law
+_asrctxt Professor of Law, President, International Human Rights Law Institute, DePaul University College of Law; President, International Institute for Higher Studies in Criminal Sciences; President, International Association of Penal Law
+_lit ENGL
+_lab
+_kwd
+_ref 0
+
+
