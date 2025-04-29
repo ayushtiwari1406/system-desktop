@@ -1,0 +1,41 @@
+PNB Bank Account details --
+
+bank account - 6090000100044099
+
+card number - 6070936026346616  (02/23) - 242  ---- 8658
+
+User Id for Internet Banking is : JAF016449
+
+password for Internet Banking : Internet@123
+
+password for Transaction Banking : Ayra@123 / Ayra@1425
+
+MPIN - 1234
+
+TPIN - 2604
+
+--------------------------------------------------------------
+
+CITI Bank -- 
+
+bank account -- 5277452707
+
+card number - 5497777012348100 (05/27) - 377    --- 5843
+
+iPIN - Jan@2021
+
+USERID -- AYUSH1407
+
+------------------------------------------------------------
+
+SBI(Papa)
+
+account# -- 53031754641
+Username -- Sudhir1965
+Password -- Sudhir@1965
+
+-----------------------------------------------------------
+IDBI A/C - 0001104000720595
+Customer ID : 99767135
+IFSC Code - IBKL0000001
+Card - Visa - 4038390010138553  (06/27)   306        --- 1406
